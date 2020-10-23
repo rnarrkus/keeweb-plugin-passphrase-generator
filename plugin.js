@@ -1,6 +1,6 @@
 /**
  * KeeWeb plugin: passphrase-generator
- * @author Grant Moyer
+ * @author Markus Wilson
  * @license MIT
  */
 
